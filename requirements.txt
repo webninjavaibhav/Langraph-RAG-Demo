@@ -1,0 +1,22 @@
+os
+numpy
+openai
+pandas
+hashlib
+tiktoken
+streamlit
+langchain
+langchain
+langchain_community
+langchain_openai
+langchain_core
+langchain_schema
+langchain_hub
+langgraph
+python-dotenv
+pydantic
+typing-extensions
+python-magic 
+python-magic-bin
+pdfkit
+# choco install wkhtmltopdf
